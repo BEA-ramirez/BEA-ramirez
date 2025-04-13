@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bea Erin Angel Ramirez</h1>
-<h3 align="center">An aspiring software developer from Visayas State University, Philippines.</h3>
+<h1 align="center">HELLO developers! 👋, Welcome to my WORLD.</h1>
+<h3 align="center">I am Bea Ramirez, an aspiring software developer from Visayas State University, Philippines.</h3>
 <div align="center">
   <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRnMTdtaDg2cnNlc3ZlejgzMnBieWp3cTQ4b3FydjIzOWEyMTN5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
   <div> 
